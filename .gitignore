@@ -1,0 +1,27 @@
+# Carpetas de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+venv/
+.env/
+.venv/
+
+# Archivos de configuración temporales
+*.log
+*.tmp
+
+# Archivos creados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de IDEs
+.vscode/
+.idea/
+
+# Archivos de compilación o empaquetado
+dist/
+build/
+*.egg-info/
