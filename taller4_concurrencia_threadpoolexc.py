@@ -2,7 +2,7 @@
 Taller 4 Versión 2
 Procesamiento concurrente usando ThreadPoolExecutor.
 
-Simula la ejecución de tareas (pedidos) con un pool de hilos
+Simula la ejecución de pedidos con un pool de hilos
 """
 
 from concurrent.futures import ThreadPoolExecutor, as_completed
